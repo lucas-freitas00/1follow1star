@@ -11,7 +11,7 @@ function init(){
   }
 
   var estrela = "";
-  var qtdeEstrelas = 1000;
+  var qtdeEstrelas = 1;
   var noite = document.querySelector(".constelacao");
   var widthWindow = window.innerWidth;
   var heightWindow = window.innerHeight;
